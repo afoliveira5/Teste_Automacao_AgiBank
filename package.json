@@ -1,0 +1,27 @@
+{
+  "name": "Teste_Automacao_AgiBank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test_headed": "cypress run --headed"
+  },
+  "keywords": [],
+  "author": "Aparecido.Oliveira",
+  "license": "ISC",
+  "cypress-cucumber-preprocessor": {
+    "stepDefinitions": "support/step_definitions",
+    "nonGlobalStepDefinitions": false
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.0",
+    "cypress": "^13.7.1",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "@types/cypress-cucumber-preprocessor": "^4.0.1"
+  }
+}
