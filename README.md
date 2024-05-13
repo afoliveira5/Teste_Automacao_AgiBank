@@ -45,5 +45,7 @@ Vamos lá ?
 
 #### Passo 3: Caso queira executar com NPM
 >```
+>
 > npm run test
->``
+>
+>```
