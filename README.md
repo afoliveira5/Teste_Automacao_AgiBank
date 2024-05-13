@@ -1,11 +1,10 @@
-# Bem vindo o repositorio Teste_Automação_AgiBank
+# Bem vindo o repositorio Teste_Para+posiçõ_de_QA_da_AgiBank
 ## Esse repositorio conta com o seguinte framework Cypress + cucumber + Gherkin 
 
 
 Vamos lá ?
 
-#### Step 1: clone the repository on your machine
-
+#### Passo 1: clone o repositorio com o comando abaixo
 >```
 >git clone git@github.com:afoliveira5/Teste_Automacao_AgiBank.git
 >```
