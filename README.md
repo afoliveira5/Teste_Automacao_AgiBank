@@ -10,7 +10,7 @@ Vamos lá ?
 >```
 &nbsp;
 
-### Versoes das dependencias utilizadas
+### Versões das dependências utilizadas nesse projeto
 >```
 >
 >npm: "^10.5.0";
@@ -23,8 +23,8 @@ Vamos lá ?
 >```
 &nbsp;
 
-## Instalando as Dependencias
-#### ara instalar as dependencia basta utilizar o comando abaixo
+## Instalando as Dependências
+#### para instalar as dependências basta utilizar o comando abaixo
 >```
 >
 >npm install
