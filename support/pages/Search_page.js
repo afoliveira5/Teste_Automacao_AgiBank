@@ -5,8 +5,8 @@ import "cypress-iframe";
 class searchPage {
   accessPage() {
     cy.visit("/");
-  };
 
+  };
 
   clickLoopSearch(){
     cy.get(el.searchLoop).click();
@@ -28,14 +28,10 @@ class searchPage {
  
    };
 
-
   errorMessage(){
    cy.contains(el.errorMessage, 'Lamentamos, mas nada foi encontrado para sua pesquisa, tente novamente com outras palavras.').should('be.visible');
 
   };
-
- 
- 
   
 }
 export default new searchPage();
