@@ -8,7 +8,7 @@ Vamos lá ?
 >```
 >git clone git@github.com:afoliveira5/Teste_Automacao_AgiBank.git
 >```
-&nbsp:
+&nbsp;
 
 ### Versoes das dependencias utilizadas
 >```
@@ -21,7 +21,7 @@ Vamos lá ?
 >cypress-xpath: "^2.0.1"
 >
 >```
-&nbsp:
+&nbsp;
 
 ## Instalando as Dependencias
 #### Forma 1: Agora vamos instalar as dependências com o comando abaixo
@@ -30,7 +30,7 @@ Vamos lá ?
 >npm install
 >
 >```
-&nbsp:
+&nbsp;
 
 ## Formas de Executar o projeto
 #### Forma 2: Para executar o projeto use o comando abaixo
