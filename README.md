@@ -24,7 +24,7 @@ Vamos lá ?
 &nbsp;
 
 ## Instalando as Dependencias
-#### Forma 1: Agora vamos instalar as dependências com o comando abaixo
+#### ara instalar as dependencia basta utilizar o comando abaixo
 >```
 >
 >npm install
@@ -33,17 +33,17 @@ Vamos lá ?
 &nbsp;
 
 ## Formas de Executar o projeto
-#### Forma 2: Para executar o projeto use o comando abaixo
+#### Forma 1: Para executar o projeto use o comando abaixo
 >```
 >npx cypress open  
 >```
 
-#### Forma 3: Para executar o projeto em modo headless use o comando abaixo
+#### Forma 2: Para executar o projeto em modo headless use o comando abaixo
 >```
 > npx cypress run
 >```
 
-#### Passo 4: Caso queira executar com NPM
+#### Passo 3: Caso queira executar com NPM
 >```
 > npm run test
 >``
