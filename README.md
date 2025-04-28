@@ -7,7 +7,7 @@ Vamos lá ?
 #### Passo 1: clone o repositorio com o comando abaixo
 >```
 >
-##>  git clone git@github.com:afoliveira5/Teste_Automacao_AgiBank.git
+>##  git clone git@github.com:afoliveira5/Teste_Automacao_AgiBank.git
 >
 >```
 &nbsp;
